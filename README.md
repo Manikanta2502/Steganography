@@ -3,9 +3,9 @@
  Steganography hides the data in any form such as image, video, text, or audio.
 
 # Project Name: Pixel Whispers Unveiling the Secrets of Image Steganography
-# Made By - L V Manikanta Maguluri
-#          - M Bhaskar Raja
-#         - K Sree Hari Kumar Reddy 
+ Made By - L V Manikanta Maguluri
+          - M Bhaskar Raja
+         - K Sree Hari Kumar Reddy 
 * Steganography is the art of hiding the fact that communication is taking place, by hiding information in other information. 
 * This project hides the message within the image, text, audio, and video files. In this project, the sender selects a cover file (image or text) with secret text and hides it into the cover file by using an efficient algorithm and generates a stego file of the same format as our cover file (image or  text). Then the stego file is sent to the destination with the help of private or public communication networks. On the other side i.e. receiver, the receiver downloads the stego file and by using the appropriate decoding algorithm retrieves the secret text that is hidden in the stego file.
 
